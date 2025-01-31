@@ -1,5 +1,5 @@
 # Discord Image Logger
-# By DeKrypt | https://github.com/dekrypted
+# By DeKrypt | https://github.com/dekrypte
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
